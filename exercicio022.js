@@ -1,0 +1,1 @@
+// Arquivo exercicio022.js

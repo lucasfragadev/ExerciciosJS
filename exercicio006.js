@@ -1,0 +1,1 @@
+// Arquivo exercicio006.js

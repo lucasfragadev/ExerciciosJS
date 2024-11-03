@@ -1,0 +1,1 @@
+// Arquivo exercicio045.js
