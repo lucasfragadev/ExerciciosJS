@@ -1,5 +1,7 @@
 // Arquivo exercicio014.js
 
+/*
+
 function verificacaoAnoBissexto (ano)  {
   if((ano % 4 == 0 && ano % 100 != 0) || (ano % 400 == 0)) {
     console.log(`${ano} é um ano bissexto`)
@@ -9,3 +11,5 @@ function verificacaoAnoBissexto (ano)  {
 }
 
 verificacaoAnoBissexto(2000)
+
+*/
